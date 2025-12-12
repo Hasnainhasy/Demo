@@ -1,2 +1,3 @@
 # Demo
-THis is my second git repo
+This is my second git repository.
+Author Hasnain Abbasi.
